@@ -32,7 +32,7 @@
 
 🔭 building: Web & Software Projects
 🌱 learning: JavaScript · Python · C++
-🚀 exploring: Cloud & Full Stack Dev
+🚀 exploring: AI/ML · Data Science · Cloud
 💬 ask_me: C, C++, Python, Web Dev
 
 ⚡ fun_fact: "Code is like humor —
